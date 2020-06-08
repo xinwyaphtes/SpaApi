@@ -1,0 +1,9 @@
+E:\CodeTest\SPAapi\SPAModel\bin\Debug\netcoreapp3.1\SPAModel.deps.json
+E:\CodeTest\SPAapi\SPAModel\bin\Debug\netcoreapp3.1\SPAModel.dll
+E:\CodeTest\SPAapi\SPAModel\bin\Debug\netcoreapp3.1\SPAModel.pdb
+E:\CodeTest\SPAapi\SPAModel\obj\Debug\netcoreapp3.1\SPAModel.AssemblyInfoInputs.cache
+E:\CodeTest\SPAapi\SPAModel\obj\Debug\netcoreapp3.1\SPAModel.AssemblyInfo.cs
+E:\CodeTest\SPAapi\SPAModel\obj\Debug\netcoreapp3.1\SPAModel.dll
+E:\CodeTest\SPAapi\SPAModel\obj\Debug\netcoreapp3.1\SPAModel.pdb
+E:\CodeTest\SPAapi\SPAModel\bin\Debug\netcoreapp3.1\SPAModel.runtimeconfig.json
+E:\CodeTest\SPAapi\SPAModel\bin\Debug\netcoreapp3.1\SPAModel.runtimeconfig.dev.json

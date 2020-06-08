@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPAapi", "SPAapi\SPAapi.csproj", "{F5316DB5-95A7-4A13-9700-2CC52EA5AB49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPAModel", "SPAModel\SPAModel.csproj", "{36DA3995-25F5-4DA1-9955-2E70F156211A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPAService", "SPAService\SPAService.csproj", "{07483D59-D2D6-4FD9-8D7D-EFECE7937E46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5316DB5-95A7-4A13-9700-2CC52EA5AB49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5316DB5-95A7-4A13-9700-2CC52EA5AB49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5316DB5-95A7-4A13-9700-2CC52EA5AB49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5316DB5-95A7-4A13-9700-2CC52EA5AB49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36DA3995-25F5-4DA1-9955-2E70F156211A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36DA3995-25F5-4DA1-9955-2E70F156211A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36DA3995-25F5-4DA1-9955-2E70F156211A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36DA3995-25F5-4DA1-9955-2E70F156211A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07483D59-D2D6-4FD9-8D7D-EFECE7937E46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07483D59-D2D6-4FD9-8D7D-EFECE7937E46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07483D59-D2D6-4FD9-8D7D-EFECE7937E46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07483D59-D2D6-4FD9-8D7D-EFECE7937E46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EFF276E-1BF6-4682-89CE-55020AA23161}
+	EndGlobalSection
+EndGlobal

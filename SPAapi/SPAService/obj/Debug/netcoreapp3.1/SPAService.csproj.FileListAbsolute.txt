@@ -1,0 +1,11 @@
+E:\CodeTest\SPAapi\SPAService\bin\Debug\netcoreapp3.1\SPAService.deps.json
+E:\CodeTest\SPAapi\SPAService\bin\Debug\netcoreapp3.1\SPAService.dll
+E:\CodeTest\SPAapi\SPAService\bin\Debug\netcoreapp3.1\SPAService.pdb
+E:\CodeTest\SPAapi\SPAService\bin\Debug\netcoreapp3.1\SPAModel.dll
+E:\CodeTest\SPAapi\SPAService\bin\Debug\netcoreapp3.1\SPAModel.pdb
+E:\CodeTest\SPAapi\SPAService\obj\Debug\netcoreapp3.1\SPAService.csprojAssemblyReference.cache
+E:\CodeTest\SPAapi\SPAService\obj\Debug\netcoreapp3.1\SPAService.AssemblyInfoInputs.cache
+E:\CodeTest\SPAapi\SPAService\obj\Debug\netcoreapp3.1\SPAService.AssemblyInfo.cs
+E:\CodeTest\SPAapi\SPAService\obj\Debug\netcoreapp3.1\SPAService.csproj.CopyComplete
+E:\CodeTest\SPAapi\SPAService\obj\Debug\netcoreapp3.1\SPAService.dll
+E:\CodeTest\SPAapi\SPAService\obj\Debug\netcoreapp3.1\SPAService.pdb

@@ -1,0 +1,210 @@
+2020-06-07 19:57:11.0597 Info Message Template Auto Format enabled
+2020-06-07 19:57:11.0719 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-07 19:57:11.1130 Info Adding target FileTarget(Name=allfile)
+2020-06-07 19:57:11.1130 Info Adding target FileTarget(Name=ownFile-web)
+2020-06-07 19:57:11.1472 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\CodeTest\SPAapi\SPAapi\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-07 19:57:11.1664 Info Configuration initialized.
+2020-06-07 19:57:11.1747 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-07 19:57:44.3244 Info Message Template Auto Format enabled
+2020-06-07 19:57:44.3370 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-07 19:57:44.3812 Info Adding target FileTarget(Name=allfile)
+2020-06-07 19:57:44.3812 Info Adding target FileTarget(Name=ownFile-web)
+2020-06-07 19:57:44.4216 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\CodeTest\SPAapi\SPAapi\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-07 19:57:44.4405 Info Configuration initialized.
+2020-06-07 19:57:44.4405 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-07 21:17:07.3513 Info Message Template Auto Format enabled
+2020-06-07 21:17:07.3635 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-07 21:17:07.4076 Info Adding target FileTarget(Name=allfile)
+2020-06-07 21:17:07.4076 Info Adding target FileTarget(Name=ownFile-web)
+2020-06-07 21:17:07.4430 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\CodeTest\SPAapi\SPAapi\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-07 21:17:07.4645 Info Configuration initialized.
+2020-06-07 21:17:07.4725 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-07 21:18:48.0234 Info Message Template Auto Format enabled
+2020-06-07 21:18:48.0403 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-07 21:18:48.0882 Info Adding target FileTarget(Name=allfile)
+2020-06-07 21:18:48.0994 Info Adding target FileTarget(Name=ownFile-web)
+2020-06-07 21:18:48.1300 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\CodeTest\SPAapi\SPAapi\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-07 21:18:48.1525 Info Configuration initialized.
+2020-06-07 21:18:48.1613 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-07 21:25:10.3636 Info Message Template Auto Format enabled
+2020-06-07 21:25:10.3766 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-07 21:25:10.4162 Info Adding target FileTarget(Name=allfile)
+2020-06-07 21:25:10.4262 Info Adding target FileTarget(Name=ownFile-web)
+2020-06-07 21:25:10.4640 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\CodeTest\SPAapi\SPAapi\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-07 21:25:10.4978 Info Configuration initialized.
+2020-06-07 21:25:10.5058 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-07 21:26:05.7401 Info Message Template Auto Format enabled
+2020-06-07 21:26:05.7518 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-07 21:26:05.7908 Info Adding target FileTarget(Name=allfile)
+2020-06-07 21:26:05.7992 Info Adding target FileTarget(Name=ownFile-web)
+2020-06-07 21:26:05.8238 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\CodeTest\SPAapi\SPAapi\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-07 21:26:05.8527 Info Configuration initialized.
+2020-06-07 21:26:05.8623 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-07 21:28:32.3033 Info Message Template Auto Format enabled
+2020-06-07 21:28:32.3162 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-07 21:28:32.3540 Info Adding target FileTarget(Name=allfile)
+2020-06-07 21:28:32.3622 Info Adding target FileTarget(Name=ownFile-web)
+2020-06-07 21:28:32.3875 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\CodeTest\SPAapi\SPAapi\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-07 21:28:32.4091 Info Configuration initialized.
+2020-06-07 21:28:32.4091 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-07 21:30:10.9059 Info Message Template Auto Format enabled
+2020-06-07 21:30:10.9214 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-07 21:30:10.9659 Info Adding target FileTarget(Name=allfile)
+2020-06-07 21:30:10.9743 Info Adding target FileTarget(Name=ownFile-web)
+2020-06-07 21:30:11.0003 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\CodeTest\SPAapi\SPAapi\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-07 21:30:11.0212 Info Configuration initialized.
+2020-06-07 21:30:11.0212 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-07 21:31:30.1923 Info Message Template Auto Format enabled
+2020-06-07 21:31:30.2064 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-07 21:31:30.2484 Info Adding target FileTarget(Name=allfile)
+2020-06-07 21:31:30.2596 Info Adding target FileTarget(Name=ownFile-web)
+2020-06-07 21:31:30.2864 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\CodeTest\SPAapi\SPAapi\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-07 21:31:30.3106 Info Configuration initialized.
+2020-06-07 21:31:30.3193 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-07 21:32:57.6863 Info Message Template Auto Format enabled
+2020-06-07 21:32:57.6998 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-07 21:32:57.7418 Info Adding target FileTarget(Name=allfile)
+2020-06-07 21:32:57.7529 Info Adding target FileTarget(Name=ownFile-web)
+2020-06-07 21:32:57.7811 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\CodeTest\SPAapi\SPAapi\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-07 21:32:57.8050 Info Configuration initialized.
+2020-06-07 21:32:57.8140 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-07 21:46:56.6287 Info Message Template Auto Format enabled
+2020-06-07 21:46:56.6423 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-07 21:46:56.6850 Info Adding target FileTarget(Name=allfile)
+2020-06-07 21:46:56.6948 Info Adding target FileTarget(Name=ownFile-web)
+2020-06-07 21:46:56.7314 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\CodeTest\SPAapi\SPAapi\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-07 21:46:56.7586 Info Configuration initialized.
+2020-06-07 21:46:56.7692 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-07 21:47:58.6008 Info Message Template Auto Format enabled
+2020-06-07 21:47:58.6160 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-07 21:47:58.6614 Info Adding target FileTarget(Name=allfile)
+2020-06-07 21:47:58.6614 Info Adding target FileTarget(Name=ownFile-web)
+2020-06-07 21:47:58.6954 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\CodeTest\SPAapi\SPAapi\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-07 21:47:58.7208 Info Configuration initialized.
+2020-06-07 21:47:58.7208 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-07 21:48:30.0851 Info Message Template Auto Format enabled
+2020-06-07 21:48:30.0993 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-07 21:48:30.1483 Info Adding target FileTarget(Name=allfile)
+2020-06-07 21:48:30.1483 Info Adding target FileTarget(Name=ownFile-web)
+2020-06-07 21:48:30.1846 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\CodeTest\SPAapi\SPAapi\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-07 21:48:30.2053 Info Configuration initialized.
+2020-06-07 21:48:30.2053 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-07 21:49:22.6032 Info Message Template Auto Format enabled
+2020-06-07 21:49:22.6204 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-07 21:49:22.6845 Info Adding target FileTarget(Name=allfile)
+2020-06-07 21:49:22.6938 Info Adding target FileTarget(Name=ownFile-web)
+2020-06-07 21:49:22.7328 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\CodeTest\SPAapi\SPAapi\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-07 21:49:22.7546 Info Configuration initialized.
+2020-06-07 21:49:22.7546 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-07 21:50:12.5904 Info Message Template Auto Format enabled
+2020-06-07 21:50:12.6025 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-07 21:50:12.6453 Info Adding target FileTarget(Name=allfile)
+2020-06-07 21:50:12.6453 Info Adding target FileTarget(Name=ownFile-web)
+2020-06-07 21:50:12.6782 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\CodeTest\SPAapi\SPAapi\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-07 21:50:12.7060 Info Configuration initialized.
+2020-06-07 21:50:12.7060 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-07 21:51:11.9743 Info Message Template Auto Format enabled
+2020-06-07 21:51:11.9874 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-07 21:51:12.0269 Info Adding target FileTarget(Name=allfile)
+2020-06-07 21:51:12.0358 Info Adding target FileTarget(Name=ownFile-web)
+2020-06-07 21:51:12.0587 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\CodeTest\SPAapi\SPAapi\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-07 21:51:12.0792 Info Configuration initialized.
+2020-06-07 21:51:12.0792 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-07 21:54:08.9982 Info Message Template Auto Format enabled
+2020-06-07 21:54:09.0248 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-07 21:54:09.1221 Info Adding target FileTarget(Name=allfile)
+2020-06-07 21:54:09.1306 Info Adding target FileTarget(Name=ownFile-web)
+2020-06-07 21:54:09.1549 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\CodeTest\SPAapi\SPAapi\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-07 21:54:09.1811 Info Configuration initialized.
+2020-06-07 21:54:09.1811 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-07 21:56:05.4331 Info Message Template Auto Format enabled
+2020-06-07 21:56:05.4465 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-07 21:56:05.4892 Info Adding target FileTarget(Name=allfile)
+2020-06-07 21:56:05.4892 Info Adding target FileTarget(Name=ownFile-web)
+2020-06-07 21:56:05.5267 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\CodeTest\SPAapi\SPAapi\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-07 21:56:05.5470 Info Configuration initialized.
+2020-06-07 21:56:05.5550 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-07 21:56:44.4518 Info Message Template Auto Format enabled
+2020-06-07 21:56:44.4743 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-07 21:56:44.5528 Info Adding target FileTarget(Name=allfile)
+2020-06-07 21:56:44.5679 Info Adding target FileTarget(Name=ownFile-web)
+2020-06-07 21:56:44.6251 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\CodeTest\SPAapi\SPAapi\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-07 21:56:44.6736 Info Configuration initialized.
+2020-06-07 21:56:44.6736 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-07 21:57:28.5240 Info Message Template Auto Format enabled
+2020-06-07 21:57:28.5401 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-07 21:57:28.5972 Info Adding target FileTarget(Name=allfile)
+2020-06-07 21:57:28.5972 Info Adding target FileTarget(Name=ownFile-web)
+2020-06-07 21:57:28.6573 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\CodeTest\SPAapi\SPAapi\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-07 21:57:28.7075 Info Configuration initialized.
+2020-06-07 21:57:28.7075 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-07 21:58:33.9941 Info Message Template Auto Format enabled
+2020-06-07 21:58:34.0082 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-07 21:58:34.0527 Info Adding target FileTarget(Name=allfile)
+2020-06-07 21:58:34.0527 Info Adding target FileTarget(Name=ownFile-web)
+2020-06-07 21:58:34.1005 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\CodeTest\SPAapi\SPAapi\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-07 21:58:34.1258 Info Configuration initialized.
+2020-06-07 21:58:34.1258 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-07 21:59:17.0947 Info Message Template Auto Format enabled
+2020-06-07 21:59:17.1079 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-07 21:59:17.1540 Info Adding target FileTarget(Name=allfile)
+2020-06-07 21:59:17.1627 Info Adding target FileTarget(Name=ownFile-web)
+2020-06-07 21:59:17.1948 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\CodeTest\SPAapi\SPAapi\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-07 21:59:17.2162 Info Configuration initialized.
+2020-06-07 21:59:17.2259 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-07 22:01:46.2642 Info Message Template Auto Format enabled
+2020-06-07 22:01:46.2785 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-07 22:01:46.3200 Info Adding target FileTarget(Name=allfile)
+2020-06-07 22:01:46.3200 Info Adding target FileTarget(Name=ownFile-web)
+2020-06-07 22:01:46.3524 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\CodeTest\SPAapi\SPAapi\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-07 22:01:46.3742 Info Configuration initialized.
+2020-06-07 22:01:46.3827 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-07 22:02:11.1831 Info Message Template Auto Format enabled
+2020-06-07 22:02:11.1985 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-07 22:02:11.2440 Info Adding target FileTarget(Name=allfile)
+2020-06-07 22:02:11.2528 Info Adding target FileTarget(Name=ownFile-web)
+2020-06-07 22:02:11.2777 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\CodeTest\SPAapi\SPAapi\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-07 22:02:11.2986 Info Configuration initialized.
+2020-06-07 22:02:11.2986 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-07 22:02:51.3917 Info Message Template Auto Format enabled
+2020-06-07 22:02:51.4043 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-07 22:02:51.4433 Info Adding target FileTarget(Name=allfile)
+2020-06-07 22:02:51.4433 Info Adding target FileTarget(Name=ownFile-web)
+2020-06-07 22:02:51.4780 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\CodeTest\SPAapi\SPAapi\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-07 22:02:51.4978 Info Configuration initialized.
+2020-06-07 22:02:51.5065 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-07 22:03:15.8791 Info Message Template Auto Format enabled
+2020-06-07 22:03:15.8946 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-07 22:03:15.9382 Info Adding target FileTarget(Name=allfile)
+2020-06-07 22:03:15.9462 Info Adding target FileTarget(Name=ownFile-web)
+2020-06-07 22:03:15.9723 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\CodeTest\SPAapi\SPAapi\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-07 22:03:15.9939 Info Configuration initialized.
+2020-06-07 22:03:16.0032 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-07 22:08:54.6021 Info Message Template Auto Format enabled
+2020-06-07 22:08:54.6158 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-07 22:08:54.6660 Info Adding target FileTarget(Name=allfile)
+2020-06-07 22:08:54.6745 Info Adding target FileTarget(Name=ownFile-web)
+2020-06-07 22:08:54.6986 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\CodeTest\SPAapi\SPAapi\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-07 22:08:54.7194 Info Configuration initialized.
+2020-06-07 22:08:54.7271 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-07 22:16:37.8471 Info Message Template Auto Format enabled
+2020-06-07 22:16:37.8613 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-07 22:16:37.9083 Info Adding target FileTarget(Name=allfile)
+2020-06-07 22:16:37.9083 Info Adding target FileTarget(Name=ownFile-web)
+2020-06-07 22:16:37.9466 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\CodeTest\SPAapi\SPAapi\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-07 22:16:37.9663 Info Configuration initialized.
+2020-06-07 22:16:37.9741 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-07 22:17:34.0871 Info Message Template Auto Format enabled
+2020-06-07 22:17:34.1003 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-07 22:17:34.1478 Info Adding target FileTarget(Name=allfile)
+2020-06-07 22:17:34.1478 Info Adding target FileTarget(Name=ownFile-web)
+2020-06-07 22:17:34.1855 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\CodeTest\SPAapi\SPAapi\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-07 22:17:34.2103 Info Configuration initialized.
+2020-06-07 22:17:34.2103 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-06-07 22:22:11.7220 Info Message Template Auto Format enabled
+2020-06-07 22:22:11.7220 Info Loading assembly: NLog.Web.AspNetCore
+2020-06-07 22:22:11.7852 Info Adding target FileTarget(Name=allfile)
+2020-06-07 22:22:11.7852 Info Adding target FileTarget(Name=ownFile-web)
+2020-06-07 22:22:11.8218 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=E:\CodeTest\SPAapi\SPAapi\bin\Debug\netcoreapp3.1\NLog.config
+2020-06-07 22:22:11.8437 Info Configuration initialized.
+2020-06-07 22:22:11.8534 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
